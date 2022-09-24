@@ -1,0 +1,1 @@
+`https://newsapi.org/v2/top-headlines?country=in&category=${props.category}&apiKey=76488bac0c854dae96b84b890b506aab&pagesize=6`
